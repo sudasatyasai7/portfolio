@@ -1,0 +1,45 @@
+.front{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.footer{
+    margin: 10px 100px;
+}
+.email-submit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.ml{
+    display: flex;
+    gap: 10px;
+    border: 1px solid white;
+    border-radius: 25px;
+    padding: 10px 20px;
+}
+.subs p{
+    border: 1px solid white;
+    border-radius: 25px;
+    padding: 10px 20px;
+}
+.front{
+    margin-bottom: 10px;
+}
+.footer-left{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.footer-right{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 40px;
+}
+.ml input{
+    border: none;
+    background-color: #111111;
+}

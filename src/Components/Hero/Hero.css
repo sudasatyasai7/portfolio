@@ -1,0 +1,40 @@
+.hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:20px
+
+}
+.butt{
+    display: flex;
+    gap: 15px;
+}
+.butt p{
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    background: linear-gradient(264deg,#DF8908 -5.09%,#B415FF 106.28%);
+
+}
+.hero h1 span{
+    background:linear-gradient(270deg,#DF8908 10%,#B415FF 100%);
+    background-clip:text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.hero h1{
+    font-weight: 600;
+}
+.hero p{
+    font-weight: 500;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+}
+.hero img{
+    width: 25%;
+    border-radius: 160px;
+    margin: 40px;
+}

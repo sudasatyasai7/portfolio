@@ -1,0 +1,34 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 80px;
+}
+.Navbar ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    align-items: center;
+}
+.connect{
+    border: 1px solid white;
+    border-radius: 50px;
+    background: linear-gradient(267deg,#DA7C25 0.36%,#B923E1 102.06%);
+    height: 35px;
+    align-content: center;
+    padding: 5px;
+}
+.Navbar p{
+    text-decoration: none;
+    color: white;
+}
+.anchor{
+    text-decoration: none;
+}
+.log{
+    width: 10%;
+    background-color: #111111;
+    border-radius: 50px;
+}
+.connect{
+    margin-top: 30px;
+}
